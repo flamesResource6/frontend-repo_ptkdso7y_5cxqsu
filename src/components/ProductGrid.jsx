@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion'
 
 const products = [
-  { id: 1, name: 'Blush Peony Bouquet', price: '$59', image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=1600&auto=format&fit=crop' },
+  { id: 1, name: 'Blush Peony Bouquet', price: '$59', image: 'https://images.unsplash.com/photo-1632827235256-abe7952a1936?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCbHVzaCUyMFBlb255JTIwQm91cXVldHxlbnwwfDB8fHwxNzYzNjU1MTM1fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
   { id: 2, name: 'Emerald Fern Bundle', price: '$39', image: 'https://images.unsplash.com/photo-1632827235256-abe7952a1936?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCbHVzaCUyMFBlb255JTIwQm91cXVldHxlbnwwfDB8fHwxNzYzNjU1MTM1fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
-  { id: 3, name: 'Ivory Rose Classic', price: '$79', image: 'https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1600&auto=format&fit=crop' },
-  { id: 4, name: 'Modern Monstera', price: '$45', image: 'https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?q=80&w=1600&auto=format&fit=crop' },
+  { id: 3, name: 'Ivory Rose Classic', price: '$79', image: 'https://images.unsplash.com/photo-1632827235256-abe7952a1936?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCbHVzaCUyMFBlb255JTIwQm91cXVldHxlbnwwfDB8fHwxNzYzNjU1MTM1fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+  { id: 4, name: 'Modern Monstera', price: '$45', image: 'https://images.unsplash.com/photo-1632827235256-abe7952a1936?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCbHVzaCUyMFBlb255JTIwQm91cXVldHxlbnwwfDB8fHwxNzYzNjU1MTM1fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
 ]
 
 export default function ProductGrid({ title = 'Best Sellers', id = 'best' }) {

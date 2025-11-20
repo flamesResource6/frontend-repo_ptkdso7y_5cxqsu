@@ -2,9 +2,9 @@ import { motion } from 'framer-motion'
 
 export default function NewCollections() {
   const items = [
-    { title: 'Spring Edit', image: 'https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=1600&auto=format&fit=crop' },
-    { title: 'Earthy Neutrals', image: 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1600&auto=format&fit=crop' },
-    { title: 'Minimal Greens', image: 'https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?q=80&w=1600&auto=format&fit=crop' },
+    { title: 'Spring Edit', image: 'https://images.unsplash.com/photo-1589262269472-dbbd16955dbe?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTcHJpbmclMjBFZGl0fGVufDB8MHx8fDE3NjM2NTcxOTh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+    { title: 'Earthy Neutrals', image: 'https://images.unsplash.com/photo-1589262269472-dbbd16955dbe?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTcHJpbmclMjBFZGl0fGVufDB8MHx8fDE3NjM2NTcxOTh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+    { title: 'Minimal Greens', image: 'https://images.unsplash.com/photo-1589262269472-dbbd16955dbe?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTcHJpbmclMjBFZGl0fGVufDB8MHx8fDE3NjM2NTcxOTh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
   ]
 
   return (

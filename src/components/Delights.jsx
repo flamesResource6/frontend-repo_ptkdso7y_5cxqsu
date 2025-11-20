@@ -2,9 +2,9 @@ import { motion } from 'framer-motion'
 
 export default function Delights() {
   const items = [
-    { title: 'Morning Calm', image: 'https://images.unsplash.com/photo-1452860606245-08befc0ff44b?q=80&w=1600&auto=format&fit=crop' },
-    { title: 'Desk Greens', image: 'https://images.unsplash.com/photo-1495640452828-3df6795cf69b?q=80&w=1600&auto=format&fit=crop' },
-    { title: 'Evening Glow', image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1600&auto=format&fit=crop' },
+    { title: 'Morning Calm', image: 'https://images.unsplash.com/photo-1709897633539-68625c0043e3?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxNb3JuaW5nJTIwQ2FsbXxlbnwwfDB8fHwxNzYzNjU3MjAxfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+    { title: 'Desk Greens', image: 'https://images.unsplash.com/photo-1709897633539-68625c0043e3?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxNb3JuaW5nJTIwQ2FsbXxlbnwwfDB8fHwxNzYzNjU3MjAxfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+    { title: 'Evening Glow', image: 'https://images.unsplash.com/photo-1709897633539-68625c0043e3?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxNb3JuaW5nJTIwQ2FsbXxlbnwwfDB8fHwxNzYzNjU3MjAxfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
   ]
 
   return (

@@ -12,13 +12,13 @@ export default function Botanical() {
           <motion.div className="relative" initial={{ opacity: 0, y: 10 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.05 }} viewport={{ once: true }}>
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white rounded-xl p-6 shadow-sm ring-1 ring-black/5">
-                <img src="https://images.unsplash.com/photo-1530026405186-ed1f139313f8?q=80&w=1200&auto=format&fit=crop" alt="Botanical line art" className="w-full h-40 object-cover rounded" />
+                <img src="https://images.unsplash.com/photo-1591052590769-ab1e4bb10580?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3RhbmljYWwlMjBsaW5lJTIwYXJ0JTIwb2YlMjBsZWF2ZXN8ZW58MHwwfHx8MTc2MzY1NzE5OXww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Botanical line art of leaves" className="w-full h-40 object-cover rounded" />
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm ring-1 ring-black/5">
-                <img src="https://images.unsplash.com/photo-1672656946087-10e5feeea992?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3RhbmljYWwlMjBsaW5lJTIwYXJ0fGVufDB8MHx8fDE3NjM2NTUxMzV8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Botanical line art" className="w-full h-40 object-cover rounded" />
+                <img src="https://images.unsplash.com/photo-1536316754104-90daa92e4eb0?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3RhbmljYWwlMjBsaW5lJTIwYXJ0JTIwb2YlMjBmbG93ZXJzfGVufDB8MHx8fDE3NjM2NTcyMDB8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Botanical line art of flowers" className="w-full h-40 object-cover rounded" />
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm ring-1 ring-black/5 col-span-2">
-                <img src="https://images.unsplash.com/photo-1672656946087-10e5feeea992?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3RhbmljYWwlMjBsaW5lJTIwYXJ0fGVufDB8MHx8fDE3NjM2NTUxMzV8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Botanical line art" className="w-full h-56 object-cover rounded" />
+                <img src="https://images.unsplash.com/photo-1747767719129-92ce413f9e73?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxMYXJnZSUyMGJvdGFuaWNhbCUyMGlsbHVzdHJhdGlvbnxlbnwwfDB8fHwxNzYzNjU3MjAwfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Large botanical illustration" className="w-full h-56 object-cover rounded" />
               </div>
             </div>
           </motion.div>

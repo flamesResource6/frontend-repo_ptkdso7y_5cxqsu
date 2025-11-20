@@ -2,9 +2,9 @@ import { motion } from 'framer-motion'
 
 export default function Inspiration() {
   const items = [
-    'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=1600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop',
+    'https://source.unsplash.com/1600x1200/?indoor,plant,pot,studio',
+    'https://source.unsplash.com/1600x1200/?bouquet,flowers,vase,studio',
+    'https://source.unsplash.com/1600x1200/?succulent,plant,pot,studio',
   ]
   return (
     <section id="inspiration" className="py-16 bg-emerald-50">

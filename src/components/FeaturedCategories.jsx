@@ -3,19 +3,19 @@ import { motion } from 'framer-motion'
 const categories = [
   {
     title: 'Bouquets',
-    image: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1623406795110-99f1c4325084?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3VxdWV0c3xlbnwwfDB8fHwxNzYzNjU3MTkzfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
   },
   {
     title: 'Houseplants',
-    image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1623406795110-99f1c4325084?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3VxdWV0c3xlbnwwfDB8fHwxNzYzNjU3MTkzfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
   },
   {
     title: 'Dried Florals',
-    image: 'https://images.unsplash.com/photo-1526476148966-98bd039463ea?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1592150621744-aca64f48394a?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxIb3VzZXBsYW50c3xlbnwwfDB8fHwxNzYzNjU3MTk0fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
   },
   {
     title: 'Gift Sets',
-    image: 'https://images.unsplash.com/photo-1481833761820-0509d3217039?q=80&w=1600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1668365154460-bb3bb9451a4b?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxEcmllZCUyMEZsb3JhbHN8ZW58MHwwfHx8MTc2MzY1NzE5NHww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
   },
 ]
 

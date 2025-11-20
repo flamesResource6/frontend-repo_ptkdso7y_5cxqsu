@@ -15,7 +15,7 @@ export default function PromoBanner() {
               </div>
             </div>
             <div className="relative">
-              <img src="https://images.unsplash.com/photo-1672656946087-10e5feeea992?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3RhbmljYWwlMjBsaW5lJTIwYXJ0fGVufDB8MHx8fDE3NjM2NTUxMzV8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Bouquet" className="w-full h-56 md:h-full object-cover" />
+              <img src="https://images.unsplash.com/photo-1606836483691-268e1cbcb477?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxCb3VxdWV0JTIwcHJvZHVjdCUyMHNob3R8ZW58MHwwfHx8MTc2MzY1NzIwMnww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Bouquet product shot" className="w-full h-56 md:h-full object-cover" />
             </div>
           </div>
         </motion.div>

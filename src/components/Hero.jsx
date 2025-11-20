@@ -32,7 +32,7 @@ export default function Hero() {
 
           <motion.div className="relative" initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.1 }} viewport={{ once: true }}>
             <div className="relative rounded-3xl overflow-hidden shadow-xl ring-1 ring-black/5">
-              <img src="https://images.unsplash.com/photo-1759395940998-791d57750675?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxFbGVnYW50JTIwYm90YW5pY2FsJTIwYXJyYW5nZW1lbnR8ZW58MHwwfHx8MTc2MzY1NTEzNHww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Elegant botanical arrangement" className="w-full h-[380px] object-cover" />
+              <img src="https://images.unsplash.com/photo-1759004612201-87c2bad9eb3e?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxFbGVnYW50JTIwYm91cXVldCUyMHN0eWxlZCUyMGlufGVufDB8MHx8fDE3NjM2NTcxOTN8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Elegant bouquet styled in a glass vase" className="w-full h-[380px] object-cover" />
               <div className="absolute inset-0" style={{ background: 'linear-gradient(120deg, rgba(174,225,201,0.35), rgba(255,255,255,0))' }} />
             </div>
           </motion.div>

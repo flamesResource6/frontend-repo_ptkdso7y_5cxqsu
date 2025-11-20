@@ -10,6 +10,7 @@ import PromoBanner from './components/PromoBanner'
 import Testimonials from './components/Testimonials'
 import Newsletter from './components/Newsletter'
 import Inspiration from './components/Inspiration'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -28,7 +29,7 @@ function App() {
         <Newsletter />
         <Inspiration />
       </main>
-      <footer className="py-10 text-center text-sm text-emerald-900/70">© {new Date().getFullYear()} Flori Mart • Botanical elegance, thoughtfully delivered.</footer>
+      <Footer />
     </div>
   )
 }
